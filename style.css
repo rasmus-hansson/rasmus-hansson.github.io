@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'runicregular';
+    src: url('RUNI-webfont.eot');
+    src: url('RUNI-webfont.eot?#iefix') format('embedded-opentype'),
+         url('RUNI-webfont.woff2') format('woff2'),
+         url('RUNI-webfont.woff') format('woff'),
+         url('RUNI-webfont.ttf') format('truetype'),
+         url('RUNI-webfont.svg#runicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body,html {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	
+	background-image: radial-gradient(circle farthest-corner at center bottom, rgb(111,255,209) 0%, rgb(0,61,60) 100%);	
+}
+
+.container {
+	color: #fff;
+	width: 440px;
+	height: 200px;
+	font-family: runicregular;
+	font-size: 60px;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;	
+}
+
+.logo {
+   text-shadow: 1px 1px rgb(20, 144, 120), 2px 2px rgb(20, 144, 120), 3px 3px rgb(20, 144, 120), 4px 4px rgb(20, 144, 120), 5px 5px rgb(20, 144, 120), 6px 6px rgb(20, 144, 120), 7px 7px rgb(20, 144, 120), 8px 8px rgb(20, 144, 120), 9px 9px rgb(20, 144, 120), 10px 10px rgb(20, 144, 120), 11px 11px rgb(20, 144, 120), 12px 12px rgb(20, 144, 120), 13px 13px rgb(20, 144, 120), 14px 14px rgb(20, 145, 121), 15px 15px rgb(20, 146, 122), 16px 16px rgb(20, 147, 122), 17px 17px rgb(20, 148, 123), 18px 18px rgb(20, 149, 124), 19px 19px rgb(20, 150, 125), 20px 20px rgb(20, 151, 125), 21px 21px rgb(21, 152, 126), 22px 22px rgb(21, 152, 127), 23px 23px rgb(21, 153, 127), 24px 24px rgb(21, 154, 128), 25px 25px rgb(21, 155, 129), 26px 26px rgb(21, 156, 130), 27px 27px rgb(21, 157, 130), 28px 28px rgb(21, 158, 131), 29px 29px rgb(21, 159, 132), 30px 30px rgb(22, 160, 133);
+}
