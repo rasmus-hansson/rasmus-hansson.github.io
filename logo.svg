@@ -11,4 +11,8 @@
 <polyline fill="none" stroke="#000000" stroke-width="14" stroke-miterlimit="10" points="196,285.5 237,269.2 242.6,314.7 
 	313.8,276.5 321.6,355.1 316.7,363 294.9,415.1 316.8,471.4 294.9,481.5 "/>
 <line fill="none" stroke="#000000" stroke-width="14" stroke-miterlimit="10" x1="324.5" y1="250.8" x2="365.1" y2="271.7"/>
+<path stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" d="M301,205l-19.9,13.6c0,0-50.3-138.4-28.5-96
+	C285.6,186.8,301,205,301,205z"/>
+<path stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" d="M339.5,215l9.2,22.3c0,0,117.8-88.3,76.4-64.8
+	C362.3,208.1,339.5,215,339.5,215z"/>
 </svg>
