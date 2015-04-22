@@ -1,18 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Lager_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 640 640" enable-background="new 0 0 640 640" xml:space="preserve">
-<circle fill="none" stroke="#000000" stroke-width="14" stroke-miterlimit="10" cx="313.8" cy="238.7" r="33.8"/>
-<polyline fill="none" stroke="#000000" stroke-width="14" stroke-miterlimit="10" points="237,467 265.4,469.5 253.4,402.5 
-	318.9,359.4 "/>
-<polyline fill="none" stroke="#000000" stroke-width="14" stroke-miterlimit="10" points="398,346.9 364.9,361.1 356.7,314.5 
-	313.8,276.5 "/>
-<ellipse transform="matrix(-0.9563 -0.2922 0.2922 -0.9563 616.65 425.6299)" fill="none" stroke="#000000" stroke-width="14" stroke-miterlimit="10" cx="340.1" cy="166.8" rx="36.7" ry="15.4"/>
-<polyline fill="none" stroke="#000000" stroke-width="14" stroke-miterlimit="10" points="196,285.5 237,269.2 242.6,314.7 
-	313.8,276.5 321.6,355.1 316.7,363 294.9,415.1 316.8,471.4 294.9,481.5 "/>
-<line fill="none" stroke="#000000" stroke-width="14" stroke-miterlimit="10" x1="324.5" y1="250.8" x2="365.1" y2="271.7"/>
-<path stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" d="M301,205l-19.9,13.6c0,0-50.3-138.4-28.5-96
-	C285.6,186.8,301,205,301,205z"/>
-<path stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" d="M339.5,215l9.2,22.3c0,0,117.8-88.3,76.4-64.8
-	C362.3,208.1,339.5,215,339.5,215z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
+  <path d="M359.5 371l32.8-14.1 3.8 5.6s96.6-111.1 61-79.4c-53.8 48.1-74.7 59.5-74.7 59.5l1.7 2.5-14 6-7.1-40.4-37.4-33.2c16.7-5.1 28.9-20.7 28.9-39 0-22.5-18.3-40.8-40.8-40.8s-40.7 18.5-40.7 41c0 17.2 10.7 31.9 25.8 37.9l-50.5 27.1-5.5-44.3L211 272c-8.3-10-24.3-30.7-49.3-69.3-25.9-40 37.9 92.7 37.9 92.7l8.4-7.1 23.1-9.2 5.8 46.6 70.9-38.1 6.5 65.9-.6 1-68.1 44.7 18.2 69.5-26.3 1.4-1.2 13.9 37.5-6.8-12.8-71.4 55.7-36.6 30.6 45.8-9.4 65.7L382 498l5.9-10.3-28.1-15.9 2.7-56.7-31.5-50-2.1-8.5-6.2-63.2 27.6 24.5 9.2 53.1zM287 238.7c0-14.8 12-26.8 26.8-26.8s26.8 12 26.8 26.8-12 26.8-26.8 26.8-26.8-12.1-26.8-26.8z"/>
+  	
+  
+  <path fill="blue" d="M330.6 168.2c8.1 2.5 16.3 3.8 23.5 3.8 13.3 0 22.4-4.5 24.8-12.4 4.3-14.1-14.5-27.8-35.2-34.2-8.1-2.5-16.3-3.8-23.5-3.8-13.3 0-22.4 4.5-24.8 12.4-4.3 14.1 14.4 27.8 35.2 34.2zm-10.5-32.7c5.9 0 12.6 1.1 19.4 3.2 17.2 5.3 25.9 14 25.9 16.7-.5.6-3.6 2.5-11.4 2.5-5.9 0-12.6-1.1-19.4-3.2-17.2-5.3-25.9-14-25.9-16.7.5-.5 3.6-2.5 11.4-2.5z">
+  	<animate attributeType="XML"
+                 attributeName="fill"
+                 from="red" to="white"
+                 dur="1s"                 
+                 repeatCount="indefinite"/>
+  </path>
 </svg>
