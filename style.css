@@ -9,6 +9,10 @@ body,html {
 
 footer {
 	line-height: 0.5em;
+	position: absolute;
+	left: 45px;
+	bottom: 45px;
+	text-align: left;
 }
 
 footer p {
@@ -19,11 +23,3 @@ footer img {
 	width: 12px; position: relative; top: 1px;
 }
 
-footer.middle {
-	position: fixed;
-    top: 50%;
-    left: 50%;
-    text-align: left;
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-}
