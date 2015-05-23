@@ -3,106 +3,27 @@ body,html {
 	padding: 0;
 	width: 100%;
 	height: 100%;
-	background-color: #eee;
-	font-family: Arial;
-}
-
-h1 {
-	color: #333;
-	font-weight: lighter;
-}
-
-#hero {
-	position: relative;
-	height: 650px;
-	overflow: hidden;
-}
-
-.btn {
-	padding: 15px 30px;
-	font-size: 14px;
-	text-align: center;
-	color: #000;
-	background-color: yellow;
-	border-color: #000;
-	line-height: 1.33333;
-	border-radius: 6px;
-	display: inline-block;
-	padding: 6px 12px;
-	margin-bottom: 0px;
-	white-space: nowrap;
-	vertical-align: middle;
-	cursor: pointer;
-	-moz-user-select: none;
-	background-image: none;
-	border: 1.5px solid #000;
-
-}
-
-#background {
-	width: 100%;
-	height: 650px;
-	background-color: #000;
-	position: absolute;
-	z-index: 0;
-	background-image: url('bkg.png');
-	background-size: cover;
-}
-
-
-#bubble {
-	position: relative;
-	margin: 0 auto;
-	top: 550px;
-
-	width: 150px;
-	height: 150px;
-	border-radius: 50%;
 	background-color: #fff;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
-.content {
-	
+footer {
+	line-height: 0.5em;
 }
 
-.middle {
+footer p {
+	font-size: 1.2em;
+}
+
+footer img {
+	width: 12px; position: relative; top: 1px;
+}
+
+footer.middle {
 	position: fixed;
     top: 50%;
     left: 50%;
-    text-align: center;
+    text-align: left;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-}
-
-
-
-
-
-.page {
-	background-image: radial-gradient(circle farthest-corner at center bottom, rgb(111,255,209) 0%, rgb(0,61,60) 100%);	
-}
-
-.container {
-	text-align: center;
-	color: #fff;
-	width: 410px;
-	height: 400px;
-	font-family: runicregular;
-	font-size: 60px;
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	margin: auto;	
-}
-
-.logo {
-   text-shadow: 1px 1px rgb(20, 144, 120), 2px 2px rgb(20, 144, 120), 3px 3px rgb(20, 144, 120), 4px 4px rgb(20, 144, 120), 5px 5px rgb(20, 144, 120), 6px 6px rgb(20, 144, 120), 7px 7px rgb(20, 144, 120), 8px 8px rgb(20, 144, 120), 9px 9px rgb(20, 144, 120), 10px 10px rgb(20, 144, 120), 11px 11px rgb(20, 144, 120), 12px 12px rgb(20, 144, 120), 13px 13px rgb(20, 144, 120), 14px 14px rgb(20, 145, 121), 15px 15px rgb(20, 146, 122), 16px 16px rgb(20, 147, 122), 17px 17px rgb(20, 148, 123), 18px 18px rgb(20, 149, 124), 19px 19px rgb(20, 150, 125), 20px 20px rgb(20, 151, 125), 21px 21px rgb(21, 152, 126), 22px 22px rgb(21, 152, 127), 23px 23px rgb(21, 153, 127), 24px 24px rgb(21, 154, 128), 25px 25px rgb(21, 155, 129), 26px 26px rgb(21, 156, 130), 27px 27px rgb(21, 157, 130), 28px 28px rgb(21, 158, 131), 29px 29px rgb(21, 159, 132), 30px 30px rgb(22, 160, 133);
-}
-
-.subtitle {
-	font-family: Arial;
-	font-size: 14px;
-	margin-top: 45px;
 }

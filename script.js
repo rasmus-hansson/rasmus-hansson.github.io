@@ -58,12 +58,3 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
 ga('create', 'UA-59227113-1', 'auto');
 ga('send', 'pageview');
-
-
-
-/*
-<div class="container">  		
-	<img src="logo.svg" style="width: 250px; height: 250px;">
-	<div class="logo">HARSHIT EM</div>
-	<div class="subtitle">Slaveri och tortyr_</div>
-</div>*/
