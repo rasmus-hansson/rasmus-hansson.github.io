@@ -56,9 +56,9 @@ var displayTime = function() {
 
   var time3 = (time2 - time1) / 1000 / 60 / 60 / 24;
 
-  lepage.innerHTML = Math.floor(time3);
+  le.className = 'page';
+  le.innerHTML = Math.floor(time3);
 
-  //console.log(Math.floor(time3));
 };
 
 displayTime();
