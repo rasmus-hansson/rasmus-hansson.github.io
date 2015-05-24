@@ -50,6 +50,20 @@ var translateY3d = function(elm, value) {
 };
 
 
+var displayTime = function() {
+  var time1 = new Date("May 20, 2015").getTime();
+  var time2 = new Date().getTime();
+
+  var time3 = (time2 - time1) / 1000 / 60 / 60 / 24;
+
+  lepage.innerHTML = Math.floor(time3);
+
+  //console.log(Math.floor(time3));
+};
+
+displayTime();
+
+
 
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
