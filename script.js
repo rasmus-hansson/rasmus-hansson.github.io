@@ -51,14 +51,13 @@ var translateY3d = function(elm, value) {
 
 
 var displayTime = function() {
-  var time1 = new Date("May 20, 2015").getTime();
+  var time1 = new Date(1432072800000);
   var time2 = new Date().getTime();
 
   var time3 = (time2 - time1) / 1000 / 60 / 60 / 24;
 
   le.className = 'page';
   le.innerHTML = Math.floor(time3);
-
 };
 
 displayTime();
